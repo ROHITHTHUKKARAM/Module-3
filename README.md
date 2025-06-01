@@ -50,8 +50,7 @@ print("Words without 'e':", l1)
 Thus, the python program was executed successfully.
 
 
-# 3.Module-3
-# 🧹 Strings-Remove Nth Index Character from a String
+# 3.Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
 To write a Python program that accepts a string and removes the character at a specified index.
